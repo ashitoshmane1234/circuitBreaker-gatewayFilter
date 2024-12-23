@@ -1,0 +1,19 @@
+{
+	"properties": [
+		{
+			"name": "jwt.config.enabled",
+			"type": "java.lang.String",
+			"description": "A description for 'custom.authentication.enabled'"
+		},
+		{
+			"name": "jwt.config.jwk-set.url",
+			"type": "java.lang.String",
+			"description": "A description for 'custom.authentication.jwk-set.url'"
+		},
+		{
+			"name": "jwt.config.jwk-set.key-id",
+			"type": "java.lang.String",
+			"description": "A description for 'custom.authentication.jwk-set.key-id'"
+		}
+	]
+}
